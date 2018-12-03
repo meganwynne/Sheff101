@@ -1,0 +1,47 @@
+div class="P-3"{
+style=background-color: #eee;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+img class ="mr-3"{
+  height: 350px;
+  width: 500px;
+  }
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
+
+img[Attributes Style] {
+    height: 350px;
+    width: 500px;
+}
+
+
+  /* I'm not sure what this line here is supposed to achieve?
+  If you're wanting to style a class called "P-3" you'd write
+  a rule as follows: (see below this an example commented out)
+
+  Right now you're making every div on the page grey rather than just those that are of class p-3
+  */
+
+
+/* Creating a class to style divs/spans/h1s/any other tag given the class "p3"*/
+.P-3{
+
+}
+
+
+/* Creating a class to style divs/spans/h1s/any other tag given an id of "randomid"*/
+#randomid{
+
+}

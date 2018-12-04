@@ -16,6 +16,39 @@ p {color: white; text-align: center; padding: 10px 200px 30px 200px; font-size: 
   text-align: center:
 }
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width=400; 
+    height=400;
+}
+
 .twitter-timeline{
   margin: auto;
+}
+
+.fa {
+  padding: 15px;
+  font-size: 25px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
 }

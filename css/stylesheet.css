@@ -1,4 +1,4 @@
-body {background-color: #778899; background:
+body {background-color: #778899;
 }
 h1 {text-align: center; color: #FFFFF0; font-family: Impact;
 }
@@ -6,6 +6,8 @@ h1 {text-align: center; color: #FFFFF0; font-family: Impact;
 }
 h3 {color: #FFFFF0; font-family: Comic Sans MS;
 }
-p {color: white; text-align: center; padding: 10px 200px 30px 200px;
+p {color: white; text-align: center; padding: 10px 200px 30px 200px; font-size: 20px;
+}
+.contact {padding: 20px 20px 20px 20px;
 }
 .fa {padding: 10px 10px 10px 10px;}
